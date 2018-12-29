@@ -98,6 +98,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Loiane Groner](https://www.youtube.com/user/Loianeg) - O canal da nossa Deusa da programação é repleto de conteúdos técnicos, desde suas palestras até cursos gratuitos (como o de Angular que está em andamento). _Tags: `java`, `javascript`, `angular`, `typescript`, `ionic`_
 - [Marcelo Simões](https://www.youtube.com/user/mhgs11) - Canal focado em desenvolvimento em Swift. _Tags: `swift`, `ios`_
 - [Vinicius Thiengo](https://www.youtube.com/user/thiengoCalopsita) - Vídeos sobre Desenvolvimento Web, Desenvolvimento Android, Avaliação de Sites e Tutoriais de técnicas importantes para desenvolvedores. _Tags: `java`,`android`_
+- [Sthefane Soares](https://www.youtube.com/user/vidaprogramacao/) - Este é um canal que trata de tecnologia com foco em Programação Mobile. Aqui você encontra tutoriais, updates e dicas para desenvolvedores de todos os níveis de conhecimento e experiência. _Tags: `java`, `ionic`, `flutter`, `android`_
 
 ### Entrevista, Webinars & Dicas 📣
 
